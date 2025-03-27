@@ -9,3 +9,5 @@ controls:
 a/d to move
 
 space to start the game
+
+![image](https://github.com/user-attachments/assets/bf9dbb85-58db-4ebf-9565-8e96fa64f14a)
