@@ -1,6 +1,8 @@
 # ArkanoidGame
 A simple block game.
 
+Made with: Java, StdDraw
+
 An old, extremley simple pratice project utilizing this library for graphics: https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java.html
 
 The aim is to break blocks by bouncing the ball using the palette.
